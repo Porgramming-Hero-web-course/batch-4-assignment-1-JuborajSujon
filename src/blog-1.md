@@ -1,6 +1,6 @@
 # The significance of union and intersection types in Typescript.
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 TypeScript making out code more reliable and easy to read.
 And it is very important to use types in your code. Union and intersection types are very important in Typescript.These types are very powerful tools that help us to define out variable types safe and more flexible.
